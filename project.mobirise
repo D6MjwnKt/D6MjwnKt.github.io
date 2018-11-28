@@ -58,7 +58,11 @@
     "cookiesAlert": "",
     "gdpr": "",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "gitHubName": "D6MjwnKten",
+    "gitHubPath": "",
+    "publishPath": "file:///C:/Users/User/Desktop/Arbi/XYZ"
   },
   "pages": {
     "index.html": {
