@@ -5566,42 +5566,34 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cc2952 !important;
 }
-.cid-raOyTbpRtM {
+.cid-raOyXsxZ6O {
   padding-top: 120px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
-.cid-raOyTbpRtM .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-raOyTbpRtM H2 {
-  color: #ffffff;
-}
-.cid-raOyTQYJX4 {
+.cid-raOyYtnD7O {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-raOyTQYJX4 .line {
+.cid-raOyYtnD7O .line {
   background-color: #149dcc;
   color: #149dcc;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
-.cid-raOyTQYJX4 .section-text {
+.cid-raOyYtnD7O .section-text {
   padding: 2rem 0;
+  text-align: left;
 }
-.cid-raOyTQYJX4 .inner-container {
+.cid-raOyYtnD7O .inner-container {
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-raOyTQYJX4 .inner-container {
+  .cid-raOyYtnD7O .inner-container {
     width: 100% !important;
   }
-}
-.cid-raOyTQYJX4 .section-text DIV {
-  text-align: left;
 }
 .cid-r5Tkzlk8iP {
   padding-top: 30px;
@@ -5680,6 +5672,35 @@ body {
 }
 .cid-r5Tkzlk8iP .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-raOz7XJ9R7 {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-raOzawrrp1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-raOzawrrp1 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-raOzawrrp1 .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-raOzawrrp1 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-raOzawrrp1 .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -6061,35 +6082,6 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cc2952 !important;
-}
-.cid-raOyXsxZ6O {
-  padding-top: 120px;
-  padding-bottom: 0px;
-  background-color: #232323;
-}
-.cid-raOyYtnD7O {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-raOyYtnD7O .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-raOyYtnD7O .section-text {
-  padding: 2rem 0;
-  text-align: left;
-}
-.cid-raOyYtnD7O .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-raOyYtnD7O .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-r5Tkzlk8iP {
   padding-top: 30px;
@@ -6657,35 +6649,6 @@ body {
 .cid-r5Tkzlk8iP .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-raOz7XJ9R7 {
-  padding-top: 90px;
-  padding-bottom: 30px;
-  background-color: #232323;
-}
-.cid-raOzawrrp1 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-raOzawrrp1 .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-raOzawrrp1 .section-text {
-  padding: 2rem 0;
-  text-align: left;
-}
-.cid-raOzawrrp1 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-raOzawrrp1 .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -7066,6 +7029,43 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cc2952 !important;
+}
+.cid-raOyTbpRtM {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-raOyTbpRtM .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-raOyTbpRtM H2 {
+  color: #ffffff;
+}
+.cid-raOyTQYJX4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-raOyTQYJX4 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-raOyTQYJX4 .section-text {
+  padding: 2rem 0;
+}
+.cid-raOyTQYJX4 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-raOyTQYJX4 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-raOyTQYJX4 .section-text DIV {
+  text-align: left;
 }
 .cid-r5Tkzlk8iP {
   padding-top: 30px;
