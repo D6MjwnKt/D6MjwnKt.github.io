@@ -58,7 +58,11 @@
     "cookiesAlert": "",
     "gdpr": "",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "gitHubName": "D6MjwnKtit",
+    "gitHubPath": "",
+    "publishPath": "file:///C:/Users/User/Desktop/Arbi/it"
   },
   "pages": {
     "compra-sweatcoin-paypal-italia.html": {
