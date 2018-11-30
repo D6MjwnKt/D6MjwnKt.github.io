@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Executive Anvil",
+  "image": [
+    "https://example.com/photos/1x1/photo.jpg"
+   ],
+  "description": "Buy Sweatcoin at the best prices in the market",
+  "brand": {
+    "@type": "Thing",
+    "name": "Sweatcoin.XYZ"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "37"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "0.03",
+    "seller": {
+      "@type": "Organization",
+      "name": "Sweatcoin.XYZ"
+    }
+  }
+}
+</script>
